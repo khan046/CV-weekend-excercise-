@@ -1,1 +1,1 @@
-# A Hands on exercise on web development (HTML, CSS, Javascript)
+# Hands on exercise on web development (HTML, CSS, Javascript)
